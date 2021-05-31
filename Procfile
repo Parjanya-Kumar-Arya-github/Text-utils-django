@@ -1,0 +1,1 @@
+web: gunicorn textmodifier.wsgi --log-file -
