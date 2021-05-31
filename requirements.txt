@@ -41,7 +41,6 @@ phonenumbers==8.12.16
 Pillow==8.1.0
 pipwin==0.5.0
 playsound==1.2.2
-PyAudio @ file:///C:/Users/HP/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
 pycodestyle==2.6.0
 pycryptodome==3.10.1
